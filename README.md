@@ -5,14 +5,7 @@ A clean, responsive clone of the Netflix landing page and browsing interface bui
 
 A responsive Netflix Clone landing page built using only **HTML**, **CSS**, and **JavaScript**. This project mimics the basic design and layout of the official Netflix homepage. It's a front-end-only clone, ideal for practicing responsive web design, layout techniques, and clean UI creation.
 
----
-
-## 🌐 Live Demo
-
-🔗 [View Live Site](https://your-username.github.io/netflix-clone/)  
-*(Replace this link with your deployed site, e.g., GitHub Pages)*
-
----
+--
 
 ## 📌 Features
 
